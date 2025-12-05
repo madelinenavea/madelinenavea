@@ -12,7 +12,9 @@ Hi! My name is Madeline Navea, and I am a senior Psychology major with minors in
 
 
 # 📊 GitHub Stats:
-![Maddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=madelinenavea&show_icons=true&theme=radical)
+[![Maddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=madelinenavea&theme=dark)](https://github.com/madelinenavea)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madelinenavea&theme=dark)](https://github.com/madelinenavea)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madelinenavea&theme=dark&layout=compact)](https://github.com/madelinenavea)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=madelinenavea&icon=0&color=0)](https://visitcount.itsvg.in)
