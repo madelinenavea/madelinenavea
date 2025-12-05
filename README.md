@@ -15,18 +15,14 @@ Hi! My name is Madeline Navea, and I am a senior Psychology major with minors in
 
 <!-- GitHub Stats Card -->
 <a href="https://github.com/madelinenavea">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=madelinenavea&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
-
-<!-- Streak Stats Card -->
-<a href="https://github.com/madelinenavea">
-  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=madelinenavea&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=madelinenavea&theme=dark&hide_border=true&include_all_commits=true" />
 </a>
 
 <!-- Top Languages Card -->
 <a href="https://github.com/madelinenavea">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madelinenavea&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madelinenavea&theme=dark&hide_border=true&layout=compact" />
 </a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=madelinenavea&icon=0&color=0)](https://visitcount.itsvg.in)
 
