@@ -22,6 +22,4 @@ Hi! My name is Madeline Navea, and I am a senior Psychology major with minors in
        width="400" height="180">
 </div>
 ---
-[![](https://visitcount.itsvg.in/api?id=madelinenavea&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
