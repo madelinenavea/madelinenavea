@@ -1,7 +1,7 @@
 # Hey, I'm Maddie 👋
 Hi! My name is Madeline Navea, and I am a senior Psychology major with minors in Computer Science (CS) and Data Science (DS) at Drexel University!  <br><br>With my skill set, I conduct a lot of independent research projects focusing on using  CS/DS, like computational modeling, to predict high-risk psychological behaviors.  Currently, I am focused on utilizing computational modeling and machine learning to predict suicide and self-injurious behaviors.<br><br>Outside of my research and analytical experiences, I like to create other coding projects, either aimed at helping others or just for fun!
 
-
+To view my full curriculum vitae, please click the link here: https://docs.google.com/document/d/1m-iQPYsa8D0OISMWgcpMHS5Ecljx17umGvhgHiUWals/edit?usp=sharing
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/madelinenavea.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madelinenavea) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/madelinenavea) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maddienavea@gmail.com) 
 
